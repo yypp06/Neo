@@ -7,3 +7,11 @@ git commit -am
 git log
 git status
 git clone
+
+
+tip 3
+git add
+git commit -m " "
+(git commit -am " ")
+
+git push
